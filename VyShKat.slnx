@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VyShKat.Application/VyShKat.Application.csproj" />
+    <Project Path="src/VyShKat.Console/VyShKat.Console.csproj" />
+    <Project Path="src/VyShKat.Domain/VyShKat.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VyShKat.Tests/VyShKat.Tests.csproj" />
+  </Folder>
+</Solution>
